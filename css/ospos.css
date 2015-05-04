@@ -172,3 +172,40 @@ a.rollover img
 {
 	padding: 3px;	
 }
+
+#home_page_wrapper
+{
+	width:99%;
+	margin-top:6px auto;
+	text-align:left;
+}
+
+#left_column
+{
+	width:31%;
+	text-align:left;
+	float:left;
+	padding:6px;
+	min-height:600px;
+	background-color:#FFF;
+}
+
+#center_column
+{
+	width:31%;
+	text-align:left;
+	float:left;
+	padding:6px;
+	min-height:600px;
+	background-color:#FFF;
+}
+
+#right_column
+{
+	width:31%;
+	text-align:left;
+	float:left;
+	padding:6px;
+	min-height:600px;
+	background-color:#FFF;
+}
